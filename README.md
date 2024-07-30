@@ -3,12 +3,27 @@
     Desenvolvedora Full-Stack
 </h3>
 
-<p align="center">
-Tenho quase quatro anos de experiência na área de desenvolvimento de sistemas, atuando como desenvolvedora full-stack. Durante esse período, minhas principais atribuições incluíam: Desenvolvimento de novas APIs Restful, garantindo a integração eficiente entre diferentes sistemas; aprimoramento do design system da plataforma, assegurando uma interface consistente e amigável para o usuário; atendimento a solicitações de correções no ambiente de produção, garantindo a estabilidade e o desempenho contínuo do sistema e participação em controles de vulnerabilidades e correções de código, contribuindo para a segurança e a qualidade do software.
-</p>
+## 👨‍💻 Sobre Mim
+
+Tenho quase quatro anos de experiência como desenvolvedora full-stack, focada em:
+
+- Desenvolvimento de APIs Restful para integração eficiente de sistemas.
+- Aprimoramento do design system para uma interface consistente e amigável.
+- Correção de problemas em produção para garantir estabilidade e desempenho.
+- Participação em controles de vulnerabilidades e correções de código para melhorar a segurança e a qualidade do software.
+
+## 📫 Como me Encontrar
+
+- **LinkedIn**: https://www.linkedin.com/in/isabella-vitoria-raymundo/
+
+
+## 🌱 Estou Aprendendo
+
+- Google Gemini
+
+
 
 ##
-
 <table align="center">
     <thead>
         <tr>
