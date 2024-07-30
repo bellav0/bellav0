@@ -23,7 +23,8 @@ Tenho quase quatro anos de experiência como desenvolvedora full-stack, focada e
 
 
 
-##
+## 🛠 Habilidades
+
 <table align="center">
     <thead>
         <tr>
