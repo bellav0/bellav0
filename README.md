@@ -118,7 +118,7 @@ Tenho quase quatro anos de experiência como desenvolvedora full-stack, focada e
             </td>
         </tr>
         <tr>
-            < <td align="left">
+            <td align="left">
                 <a href="https://angular.dev/" target="_blank" rel="opener">
                     <img src="https://img.shields.io/badge/ANGULAR-gray?logo=angular" style="max-width: 100%;">
                 </a>
