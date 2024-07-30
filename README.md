@@ -16,6 +16,7 @@ Tenho quase quatro anos de experiência na área de desenvolvimento de sistemas,
         <tr>
             <th align="center">FRONTEND</th>
             <th align="center">BACKEND</th>
+            <th align="center">MOBILE</th>
             <th align="center">STYLES</th>
             <th align="center">DATABASES</th>
             <th align="center">TOOLS</th>
@@ -33,7 +34,11 @@ Tenho quase quatro anos de experiência na área de desenvolvimento de sistemas,
                     <img src="https://img.shields.io/badge/NODE-gray?logo=nodedotjs" style="max-width: 100%;">
                 </a>
             </td>
-          
+            <td align="left">
+                <a href="https://reactnative.dev/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/REACT%20NATIVE-gray?logo=react" style="max-width: 100%;">
+                </a>
+            </td>
             <td align="left">
                 <a href="https://styled-components.com/" target="_blank" rel="opener">
                     <img src="https://img.shields.io/badge/STYLED%20COMPONENTS-gray?logo=styledcomponents" style="max-width: 100%;">
@@ -61,7 +66,11 @@ Tenho quase quatro anos de experiência na área de desenvolvimento de sistemas,
                     <img src="https://img.shields.io/badge/PYTHON-gray?logo=python" style="max-width: 100%;">
                 </a>
             </td>  
-           
+            <td align="left">
+                <a href="https://flutter.dev/" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/FLUTTER-gray?logo=flutter" style="max-width: 100%;">
+                </a>
+            </td>
             <td align="left">
                 <a href="https://www.w3schools.com/css/" target="_blank" rel="opener">
                     <img src="https://img.shields.io/badge/CSS-gray?logo=css3" style="max-width: 100%;">
@@ -82,11 +91,6 @@ Tenho quase quatro anos de experiência na área de desenvolvimento de sistemas,
             <td align="left">
                 <a href="https://www.w3schools.com/html/" target="_blank" rel="opener">
                     <img src="https://img.shields.io/badge/HTML-gray?logo=html5" style="max-width: 100%;">
-                </a>
-            </td>
-             <td align="left">
-                <a href="https://www.java.com/pt-BR/" target="_blank" rel="opener">
-                    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg??style=for-the-badge&logo=openjdk&logoColor=whiter" style="max-width: 100%;">
                 </a>
             </td>
             <td align="left">-</td>
@@ -118,7 +122,9 @@ Tenho quase quatro anos de experiência na área de desenvolvimento de sistemas,
                 </a>
             </td>
             <td align="left">
-              -
+                <a href="https://www.selenium.dev" target="_blank" rel="opener">
+                    <img src="https://img.shields.io/badge/SELENIUM-gray?logo=selenium" style="max-width: 100%;">
+                </a>
             </td>
         </tr>
     </tbody>
