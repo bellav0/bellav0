@@ -19,7 +19,7 @@ Tenho quase quatro anos de experiência como desenvolvedora full-stack, focada e
 
 ## 🌱 Estou Aprendendo
 
-- Google Gemini
+- Vertex AI
 
 
 
