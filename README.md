@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou a Isabella </h1>
 <h3 align="center">
-    Desenvolvedora Full-Stack
+    Desenvolvedora Full Stack
 </h3>
 
 ## 👨‍💻 Sobre Mim
